@@ -1,0 +1,94 @@
+<mxfile host="app.diagrams.net" modified="2024-05-31T08:23:11.794Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36 Edg/125.0.0.0" etag="B0W6Ofd7JeExHuCMzjhj" version="24.4.10" type="github">
+  <diagram name="Page-1" id="fYKF48o0JIDyMCe7CqAE">
+    <mxGraphModel dx="1591" dy="367" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="1sIu6FtuqkAgJyvBfaHc-1" value="" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;strokeColor=none;strokeWidth=2;fillColor=#E6E6E6;fontFamily=Verdana;fontSize=12;fontColor=#00BEF2" parent="1" vertex="1">
+          <mxGeometry x="-270" y="120" width="270" height="670" as="geometry" />
+        </mxCell>
+        <mxCell id="1sIu6FtuqkAgJyvBfaHc-2" value="" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;strokeColor=none;strokeWidth=2;fillColor=#E6E6E6;fontFamily=Verdana;fontSize=12;fontColor=#00BEF2" parent="1" vertex="1">
+          <mxGeometry x="40" y="120" width="335" height="260" as="geometry" />
+        </mxCell>
+        <mxCell id="1sIu6FtuqkAgJyvBfaHc-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=6;" parent="1" source="1sIu6FtuqkAgJyvBfaHc-4" target="1sIu6FtuqkAgJyvBfaHc-15" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1sIu6FtuqkAgJyvBfaHc-4" value="&lt;font style=&quot;font-size: 28px;&quot; color=&quot;#000000&quot;&gt;数据声明段落提取&lt;/font&gt;" style="whiteSpace=wrap;html=1;dashed=1;strokeColor=#006EAF;strokeWidth=2;fillColor=#1ba1e2;fontFamily=Helvetica;fontSize=18;fontColor=#ffffff;fontStyle=1" parent="1" vertex="1">
+          <mxGeometry x="40" y="120" width="335" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="1sIu6FtuqkAgJyvBfaHc-5" value="" style="shape=mxgraph.arrows.two_way_arrow_horizontal;html=1;verticalLabelPosition=bottom;verticalAlign=top;strokeWidth=2;strokeColor=none;dashed=1;fillColor=#FFFFFF;fontFamily=Verdana;fontSize=12;fontColor=#00BEF2" parent="1" vertex="1">
+          <mxGeometry x="870" y="131" width="67" height="39" as="geometry" />
+        </mxCell>
+        <mxCell id="1sIu6FtuqkAgJyvBfaHc-6" value="" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;strokeColor=none;strokeWidth=2;fillColor=#E6E6E6;fontFamily=Verdana;fontSize=12;fontColor=#00BEF2" parent="1" vertex="1">
+          <mxGeometry x="-350" y="120" width="300" height="670" as="geometry" />
+        </mxCell>
+        <mxCell id="1sIu6FtuqkAgJyvBfaHc-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=6;" parent="1" source="1sIu6FtuqkAgJyvBfaHc-8" target="1sIu6FtuqkAgJyvBfaHc-4" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1sIu6FtuqkAgJyvBfaHc-8" value="&lt;font style=&quot;font-size: 28px;&quot; color=&quot;#000000&quot;&gt;隐私政策原文&lt;/font&gt;" style="whiteSpace=wrap;html=1;dashed=1;strokeWidth=2;fontFamily=Helvetica;fontSize=18;fontStyle=1;labelBackgroundColor=none;fillColor=#1ba1e2;strokeColor=none;fontColor=#ffffff;" parent="1" vertex="1">
+          <mxGeometry x="-350" y="120" width="350" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="1sIu6FtuqkAgJyvBfaHc-9" value="" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;strokeColor=none;strokeWidth=2;fillColor=#FFFFFF;fontFamily=Helvetica;fontSize=14;fontColor=#FFB366;opacity=75;verticalAlign=top;fontStyle=1" parent="1" vertex="1">
+          <mxGeometry x="-340" y="200" width="330" height="580" as="geometry" />
+        </mxCell>
+        <mxCell id="1sIu6FtuqkAgJyvBfaHc-11" value="" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;strokeColor=none;strokeWidth=2;fillColor=#FFFFFF;fontFamily=Helvetica;fontSize=14;fontColor=#FFB366;opacity=75;verticalAlign=top;fontStyle=1" parent="1" vertex="1">
+          <mxGeometry x="45" y="197.5" width="325" height="172.5" as="geometry" />
+        </mxCell>
+        <mxCell id="1sIu6FtuqkAgJyvBfaHc-12" value="&lt;span style=&quot;font-size: 19px;&quot;&gt;( 1 ) 在您&lt;/span&gt;&lt;font style=&quot;font-size: 19px;&quot; color=&quot;#ff0000&quot;&gt;注册网易支付账户并使用网易支付服务&lt;/font&gt;&lt;span style=&quot;font-size: 19px;&quot;&gt;时，依据支付业务相关的法律法规和监管规定，您需要提供您的&lt;/span&gt;&lt;font style=&quot;font-size: 19px;&quot; color=&quot;#ff0000&quot;&gt;姓名、国籍、联系方式&lt;/font&gt;&lt;span style=&quot;font-size: 19px;&quot;&gt;，如您不提供上述信息，将无法注册账户或无法使用网易支付服务。&lt;/span&gt;" style="text;strokeColor=none;align=left;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=19;" parent="1" vertex="1">
+          <mxGeometry x="58.75" y="205" width="297.5" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="1sIu6FtuqkAgJyvBfaHc-13" value="" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;strokeColor=none;strokeWidth=2;fillColor=#E6E6E6;fontFamily=Verdana;fontSize=12;fontColor=#00BEF2" parent="1" vertex="1">
+          <mxGeometry x="417" y="120" width="335" height="260" as="geometry" />
+        </mxCell>
+        <mxCell id="1sIu6FtuqkAgJyvBfaHc-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=6;" parent="1" source="1sIu6FtuqkAgJyvBfaHc-15" target="1sIu6FtuqkAgJyvBfaHc-20" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1sIu6FtuqkAgJyvBfaHc-15" value="&lt;font color=&quot;#000000&quot;&gt;&lt;span style=&quot;font-size: 28px;&quot;&gt;语句简化&lt;/span&gt;&lt;/font&gt;" style="whiteSpace=wrap;html=1;dashed=1;strokeColor=#006EAF;strokeWidth=2;fillColor=#1ba1e2;fontFamily=Helvetica;fontSize=18;fontColor=#ffffff;fontStyle=1" parent="1" vertex="1">
+          <mxGeometry x="417" y="120" width="335" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="1sIu6FtuqkAgJyvBfaHc-16" value="" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;strokeColor=none;strokeWidth=2;fillColor=#FFFFFF;fontFamily=Helvetica;fontSize=14;fontColor=#FFB366;opacity=75;verticalAlign=top;fontStyle=1" parent="1" vertex="1">
+          <mxGeometry x="422" y="197.5" width="325" height="172.5" as="geometry" />
+        </mxCell>
+        <mxCell id="1sIu6FtuqkAgJyvBfaHc-17" value="&lt;div style=&quot;font-size: 23px;&quot;&gt;&lt;span style=&quot;font-size: 23px;&quot;&gt;&quot;data practice&quot;&amp;nbsp; :&amp;nbsp; [&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 23px;&quot;&gt;&lt;span style=&quot;font-size: 23px;&quot;&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp;&quot;注册网易支付账户并使用网易支付，我们收集姓名、国籍、联系方式&lt;/span&gt;&lt;span style=&quot;font-size: 23px; background-color: initial;&quot;&gt;&quot;&amp;nbsp; &amp;nbsp;&amp;nbsp;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 23px;&quot;&gt;&lt;span style=&quot;font-size: 23px;&quot;&gt;]&lt;/span&gt;&lt;/div&gt;" style="text;strokeColor=none;align=left;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=23;fontStyle=0" parent="1" vertex="1">
+          <mxGeometry x="435.75" y="205" width="297.5" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="1sIu6FtuqkAgJyvBfaHc-18" value="" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;strokeColor=none;strokeWidth=2;fillColor=#E6E6E6;fontFamily=Verdana;fontSize=12;fontColor=#00BEF2" parent="1" vertex="1">
+          <mxGeometry x="870" y="120" width="270" height="670" as="geometry" />
+        </mxCell>
+        <mxCell id="1sIu6FtuqkAgJyvBfaHc-19" value="" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;strokeColor=none;strokeWidth=2;fillColor=#E6E6E6;fontFamily=Verdana;fontSize=12;fontColor=#00BEF2" parent="1" vertex="1">
+          <mxGeometry x="790" y="120" width="300" height="670" as="geometry" />
+        </mxCell>
+        <mxCell id="1sIu6FtuqkAgJyvBfaHc-20" value="&lt;font color=&quot;#000000&quot;&gt;&lt;span style=&quot;font-size: 28px;&quot;&gt;三元组提取&lt;/span&gt;&lt;/font&gt;" style="whiteSpace=wrap;html=1;dashed=1;strokeWidth=2;fontFamily=Helvetica;fontSize=18;fontStyle=1;labelBackgroundColor=none;fillColor=#1ba1e2;strokeColor=none;fontColor=#ffffff;" parent="1" vertex="1">
+          <mxGeometry x="790" y="120" width="350" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="1sIu6FtuqkAgJyvBfaHc-21" value="" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;strokeColor=none;strokeWidth=2;fillColor=#FFFFFF;fontFamily=Helvetica;fontSize=14;fontColor=#FFB366;opacity=75;verticalAlign=top;fontStyle=1" parent="1" vertex="1">
+          <mxGeometry x="800" y="200" width="330" height="190" as="geometry" />
+        </mxCell>
+        <mxCell id="1sIu6FtuqkAgJyvBfaHc-22" value="&lt;div style=&quot;font-size: 27px;&quot;&gt;&lt;span style=&quot;background-color: initial; font-size: 27px;&quot;&gt;&quot;data&quot; : [&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 27px;&quot;&gt;&lt;span style=&quot;white-space: pre; font-size: 27px;&quot;&gt;&#x9;&lt;/span&gt;&quot;姓名&quot;，&lt;br style=&quot;font-size: 27px;&quot;&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 27px;&quot;&gt;&lt;span style=&quot;white-space: pre; font-size: 27px;&quot;&gt;&#x9;&lt;/span&gt;&quot;国籍&quot;，&lt;br style=&quot;font-size: 27px;&quot;&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 27px;&quot;&gt;&lt;span style=&quot;white-space: pre; font-size: 27px;&quot;&gt;&#x9;&lt;/span&gt;&quot;联系方式&quot;&lt;br style=&quot;font-size: 27px;&quot;&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 27px;&quot;&gt;]&lt;/div&gt;" style="text;strokeColor=none;align=left;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=27;" parent="1" vertex="1">
+          <mxGeometry x="816.25" y="238.13" width="297.5" height="113.75" as="geometry" />
+        </mxCell>
+        <mxCell id="1sIu6FtuqkAgJyvBfaHc-23" value="" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;strokeColor=none;strokeWidth=2;fillColor=#FFFFFF;fontFamily=Helvetica;fontSize=14;fontColor=#FFB366;opacity=75;verticalAlign=top;fontStyle=1" parent="1" vertex="1">
+          <mxGeometry x="800" y="400" width="330" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="1sIu6FtuqkAgJyvBfaHc-24" value="" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;strokeColor=none;strokeWidth=2;fillColor=#FFFFFF;fontFamily=Helvetica;fontSize=14;fontColor=#FFB366;opacity=75;verticalAlign=top;fontStyle=1" parent="1" vertex="1">
+          <mxGeometry x="800" y="590" width="330" height="190" as="geometry" />
+        </mxCell>
+        <mxCell id="1sIu6FtuqkAgJyvBfaHc-25" value="&lt;div style=&quot;font-size: 27px;&quot;&gt;&quot;scene / sdk&quot; : [&lt;/div&gt;&lt;div style=&quot;font-size: 27px;&quot;&gt;&lt;span style=&quot;white-space: pre; font-size: 27px;&quot;&gt;&#x9;&lt;/span&gt;&quot;网易支付sdk&quot;&lt;br style=&quot;font-size: 27px;&quot;&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 27px;&quot;&gt;]&lt;/div&gt;" style="text;strokeColor=none;align=left;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=27;" parent="1" vertex="1">
+          <mxGeometry x="830" y="620" width="260" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="1sIu6FtuqkAgJyvBfaHc-26" value="&quot;purpose&quot; : [&lt;div style=&quot;font-size: 27px;&quot;&gt;&lt;span style=&quot;white-space: pre; font-size: 27px;&quot;&gt;&#x9;&lt;/span&gt;&quot;注册网易支付服务&quot;，&lt;br style=&quot;font-size: 27px;&quot;&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 27px;&quot;&gt;&lt;span style=&quot;white-space: pre; font-size: 27px;&quot;&gt;&#x9;&lt;/span&gt;&quot;使用网易支付&quot;&lt;br style=&quot;font-size: 27px;&quot;&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 27px;&quot;&gt;]&lt;/div&gt;" style="text;strokeColor=none;align=left;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=27;" parent="1" vertex="1">
+          <mxGeometry x="836.25" y="440" width="420" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="1sIu6FtuqkAgJyvBfaHc-27" value="&lt;font style=&quot;font-size: 29px;&quot;&gt;结构化提取数据声明&lt;/font&gt;" style="swimlane;whiteSpace=wrap;html=1;startSize=50;direction=west;strokeWidth=4;" parent="1" vertex="1">
+          <mxGeometry x="-370" y="109.5" width="1519" height="740" as="geometry" />
+        </mxCell>
+        <mxCell id="1sIu6FtuqkAgJyvBfaHc-10" value="&lt;b style=&quot;font-size: 16px;&quot;&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;一、我们如何收集和使用个人信息&lt;/font&gt;&lt;/b&gt;&lt;br style=&quot;font-size: 16px;&quot;&gt;我们收集您的个人信息主要是为了您和其他用户能够更容易和更满意地使用网易支付服务。网易支付的目标是向所有的互联网用户提供安全、有趣及有教益的上网经历，而这些信息有助于我们实现这一目标。&lt;br style=&quot;font-size: 16px;&quot;&gt;&lt;br style=&quot;font-size: 16px;&quot;&gt;&lt;b style=&quot;font-size: 16px;&quot;&gt;(一) 我们将通过以下途径收集和获得您的个人信息：&lt;/b&gt;&lt;br style=&quot;font-size: 16px;&quot;&gt;&lt;br style=&quot;font-size: 16px;&quot;&gt;1、您提供的下列信息：&lt;br style=&quot;font-size: 16px;&quot;&gt;&lt;br style=&quot;font-size: 16px;&quot;&gt;2、我们获取的您的信息。您在使用网易支付服务时，我们收集、汇总、记录的信息。&lt;br style=&quot;font-size: 16px;&quot;&gt;&lt;br style=&quot;font-size: 16px;&quot;&gt;&lt;b style=&quot;font-size: 16px;&quot;&gt;(二) 我们会出于以下目的，收集和使用您以下类型的个人信息：&lt;/b&gt;&lt;br style=&quot;font-size: 16px;&quot;&gt;&lt;br style=&quot;font-size: 16px;&quot;&gt;1、依据法律法规及监管规定履行实名制管理和反洗钱义务&lt;br style=&quot;font-size: 16px;&quot;&gt;&lt;br style=&quot;font-size: 16px;&quot;&gt;&lt;font style=&quot;font-size: 20px;&quot;&gt;( 1 )在您&lt;font color=&quot;#ff0000&quot; style=&quot;font-size: 20px;&quot;&gt;注册网易支付账户并使用网易支付服务&lt;/font&gt;时，依据支付业务相关的法律法规和监管规定，您需要提供您的&lt;font color=&quot;#ff0000&quot; style=&quot;font-size: 20px;&quot;&gt;姓名、国籍、联系方式&lt;/font&gt;，如您不提供上述信息，将无法注册账户或无法使用网易支付服务。&lt;/font&gt;" style="text;whiteSpace=wrap;html=1;fontSize=16;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="1sIu6FtuqkAgJyvBfaHc-27" vertex="1">
+          <mxGeometry x="41.25" y="100.5" width="307.5" height="519" as="geometry" />
+        </mxCell>
+        <mxCell id="kNUijT2mL6cdrEPIz2TX-1" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/general/Search.svg;direction=north;" parent="1sIu6FtuqkAgJyvBfaHc-27" vertex="1">
+          <mxGeometry x="290" y="474.5" width="35" height="34.46" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
