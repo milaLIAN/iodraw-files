@@ -1,16 +1,16 @@
-<mxfile host="app.diagrams.net" modified="2024-05-31T12:27:43.874Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36 Edg/125.0.0.0" etag="NRet28XU1vCzYKQal7jc" version="24.4.13" type="github">
+<mxfile host="app.diagrams.net" modified="2024-05-31T12:35:15.663Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36 Edg/125.0.0.0" etag="WCZeuub3ktk2Y5ZIBEHX" version="24.4.13" type="github">
   <diagram id="3228e29e-7158-1315-38df-8450db1d8a1d" name="Page-1">
     <mxGraphModel dx="753" dy="526" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="1">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="21635" value="&lt;div style=&quot;text-align: center ; font-size: 16px&quot;&gt;&lt;br&gt;&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;rounded=1;shadow=0;glass=0;labelBackgroundColor=none;strokeColor=none;strokeWidth=1;fillColor=#F08705;gradientColor=none;fontFamily=Helvetica;fontSize=16;fontColor=#2F5B7C;align=center;opacity=50;verticalAlign=top;spacing=15;" parent="1" vertex="1">
+        <mxCell id="21635" value="&lt;div style=&quot;text-align: center ; font-size: 16px&quot;&gt;&lt;br&gt;&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;rounded=1;shadow=0;glass=0;labelBackgroundColor=none;strokeColor=none;strokeWidth=1;fillColor=#ebb384;gradientColor=none;fontFamily=Helvetica;fontSize=16;fontColor=#2F5B7C;align=center;opacity=50;verticalAlign=top;spacing=15;" parent="1" vertex="1">
           <mxGeometry x="660" y="379" width="25" height="25" as="geometry" />
         </mxCell>
         <mxCell id="21638" value="&lt;font color=&quot;#000000&quot;&gt;相机权限&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;rounded=1;shadow=0;glass=0;labelBackgroundColor=none;strokeColor=#006EAF;strokeWidth=1;fillColor=#88d4da;fontFamily=Helvetica;fontSize=16;fontColor=#ffffff;align=left;opacity=50;spacing=15;" parent="1" vertex="1">
           <mxGeometry x="300" y="309" width="204.5" height="204.5" as="geometry" />
         </mxCell>
-        <mxCell id="21639" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;rounded=1;shadow=0;glass=0;labelBackgroundColor=none;strokeColor=#d79b00;strokeWidth=1;fillColor=#f7c382;fontFamily=Helvetica;fontSize=16;align=right;opacity=50;spacing=15;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="1" vertex="1">
+        <mxCell id="21639" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;rounded=1;shadow=0;glass=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Helvetica;fontSize=16;align=right;opacity=50;spacing=15;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;fillColor=#ebb384;" parent="1" vertex="1">
           <mxGeometry x="400" y="313.5" width="200" height="200" as="geometry" />
         </mxCell>
         <mxCell id="21642" value="&lt;font color=&quot;#000000&quot;&gt;设备信息&lt;/font&gt;&lt;div&gt;&lt;font color=&quot;#000000&quot;&gt;位置信息&lt;/font&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;glass=0;labelBackgroundColor=none;fontFamily=Helvetica;fontSize=16;fontColor=#2F5B7C;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="1" vertex="1">
@@ -24,6 +24,15 @@
         </mxCell>
         <mxCell id="21648" value="FirstData" style="text;resizable=0;points=[];autosize=1;align=left;verticalAlign=top;spacingTop=-4;fontSize=17;fontFamily=Helvetica;fontColor=#000000;textShadow=0;" parent="1" vertex="1">
           <mxGeometry x="705" y="379" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="WOqUiJgGNlT-D8bY77tU-21652" value="&lt;div style=&quot;text-align: center ; font-size: 16px&quot;&gt;&lt;br&gt;&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;rounded=1;shadow=0;glass=0;labelBackgroundColor=none;strokeColor=none;strokeWidth=1;fillColor=#F08705;gradientColor=none;fontFamily=Helvetica;fontSize=16;fontColor=#2F5B7C;align=center;opacity=50;verticalAlign=top;spacing=15;" vertex="1" parent="1">
+          <mxGeometry x="660" y="460" width="25" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="WOqUiJgGNlT-D8bY77tU-21653" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;rounded=1;shadow=0;glass=0;labelBackgroundColor=none;strokeColor=none;strokeWidth=1;fillColor=#12AAB5;gradientColor=none;fontFamily=Helvetica;fontSize=16;fontColor=#2F5B7C;align=center;opacity=50;spacing=15;" vertex="1" parent="1">
+          <mxGeometry x="660" y="460" width="25" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="WOqUiJgGNlT-D8bY77tU-21657" value="缺失声明" style="text;resizable=0;points=[];autosize=1;align=left;verticalAlign=top;spacingTop=-4;fontSize=17;fontFamily=Helvetica;fontColor=#000000;textShadow=0;" vertex="1" parent="1">
+          <mxGeometry x="705" y="457.5" width="90" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
