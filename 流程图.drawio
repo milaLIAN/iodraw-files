@@ -1,9 +1,135 @@
-<mxfile host="app.diagrams.net" modified="2024-05-31T09:51:35.877Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36 Edg/125.0.0.0" version="24.4.10" etag="KfEXtvqD9mw3SkY33-bt" type="github">
+<mxfile host="app.diagrams.net" modified="2024-05-31T11:18:40.066Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36 Edg/125.0.0.0" etag="NTXS564XxzpHns11QM1E" version="24.4.10" type="github">
   <diagram name="第 1 页" id="IPyZK0bux-thjWqxslcY">
-    <mxGraphModel>
+    <mxGraphModel dx="1833" dy="1127" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="QtYvp_LbL9cdmvyn9WXL-42" value="结构化隐私政策模块" style="swimlane;labelBackgroundColor=none;labelBorderColor=none;fontSize=36;startSize=60;fillColor=#b0e3e6;strokeColor=#0e8088;opacity=50;gradientColor=none;rounded=0;shadow=1;swimlaneFillColor=none;strokeWidth=4;" vertex="1" parent="1">
+          <mxGeometry x="60" y="140" width="1160" height="1330" as="geometry" />
+        </mxCell>
+        <mxCell id="QtYvp_LbL9cdmvyn9WXL-25" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="QtYvp_LbL9cdmvyn9WXL-1" target="QtYvp_LbL9cdmvyn9WXL-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="QtYvp_LbL9cdmvyn9WXL-1" value="爱粉笔隐私政策第三方目录" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=25;image=img/lib/azure2/azure_stack/Plans.svg;" vertex="1" parent="1">
+          <mxGeometry x="370" y="210" width="52" height="64" as="geometry" />
+        </mxCell>
+        <mxCell id="QtYvp_LbL9cdmvyn9WXL-24" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="QtYvp_LbL9cdmvyn9WXL-4" target="QtYvp_LbL9cdmvyn9WXL-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="220" y="240" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="310" y="240" />
+              <mxPoint x="310" y="240" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="QtYvp_LbL9cdmvyn9WXL-4" value="&lt;font color=&quot;#000000&quot; style=&quot;font-size: 25px;&quot;&gt;爱粉笔&lt;/font&gt;" style="image;aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;fontColor=#4277BB;labelBackgroundColor=default;fontSize=25;spacingTop=3;image=img/lib/ibm/management/device_management.svg;" vertex="1" parent="1">
+          <mxGeometry x="80" y="210" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="QtYvp_LbL9cdmvyn9WXL-27" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="QtYvp_LbL9cdmvyn9WXL-8" target="QtYvp_LbL9cdmvyn9WXL-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="QtYvp_LbL9cdmvyn9WXL-8" value="APP声明四元组" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=25;image=img/lib/azure2/general/Templates.svg;" vertex="1" parent="1">
+          <mxGeometry x="368" y="370" width="56.00000000000001" height="68" as="geometry" />
+        </mxCell>
+        <mxCell id="QtYvp_LbL9cdmvyn9WXL-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="QtYvp_LbL9cdmvyn9WXL-12" target="QtYvp_LbL9cdmvyn9WXL-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="QtYvp_LbL9cdmvyn9WXL-12" value="链接无法打开" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=25;image=img/lib/azure2/general/Globe_Error.svg;" vertex="1" parent="1">
+          <mxGeometry x="120" y="770" width="56.00000000000001" height="66" as="geometry" />
+        </mxCell>
+        <mxCell id="QtYvp_LbL9cdmvyn9WXL-13" value="链接可以打开" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=25;image=img/lib/azure2/general/Globe_Success.svg;" vertex="1" parent="1">
+          <mxGeometry x="680" y="770" width="56.00000000000001" height="66" as="geometry" />
+        </mxCell>
+        <mxCell id="QtYvp_LbL9cdmvyn9WXL-14" value="&lt;span style=&quot;font-size: 25px;&quot;&gt;SDK-name : 支付宝SDK&lt;/span&gt;&lt;br style=&quot;font-size: 25px;&quot;&gt;&lt;span style=&quot;font-size: 25px;&quot;&gt;Data : 设备序列号、网络状态、订单信息&lt;/span&gt;&lt;br style=&quot;font-size: 25px;&quot;&gt;&lt;span style=&quot;font-size: 25px;&quot;&gt;Purpose : 用于购买增值服务&lt;/span&gt;&lt;br style=&quot;font-size: 25px;&quot;&gt;&lt;span style=&quot;font-size: 25px;&quot;&gt;url : https://render.alipay.com/p/c/k2cx0tg8&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;spacingLeft=24;" vertex="1" parent="1">
+          <mxGeometry x="136" y="540" width="520" height="135" as="geometry" />
+        </mxCell>
+        <mxCell id="QtYvp_LbL9cdmvyn9WXL-15" value="链接无效" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#505050;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.concepts.attachment;fontSize=25;" vertex="1" parent="1">
+          <mxGeometry x="137" y="956" width="22" height="44" as="geometry" />
+        </mxCell>
+        <mxCell id="QtYvp_LbL9cdmvyn9WXL-16" value="链接不为SDK隐私政策" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#505050;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.concepts.attachment;fontSize=25;" vertex="1" parent="1">
+          <mxGeometry x="330" y="1169" width="22" height="44" as="geometry" />
+        </mxCell>
+        <mxCell id="QtYvp_LbL9cdmvyn9WXL-18" value="链接是SDK隐私政策&lt;div&gt;但无具体内容&lt;/div&gt;" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#505050;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.concepts.attachment;fontSize=25;" vertex="1" parent="1">
+          <mxGeometry x="620" y="1169" width="22" height="44" as="geometry" />
+        </mxCell>
+        <mxCell id="QtYvp_LbL9cdmvyn9WXL-20" value="&lt;font color=&quot;#000000&quot;&gt;大模型文本分析&lt;/font&gt;" style="image;aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;fontColor=#4277BB;labelBackgroundColor=default;fontSize=25;spacingTop=3;image=img/lib/ibm/miscellaneous/text_to_speech.svg;" vertex="1" parent="1">
+          <mxGeometry x="460" y="940" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="QtYvp_LbL9cdmvyn9WXL-30" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="QtYvp_LbL9cdmvyn9WXL-21" target="QtYvp_LbL9cdmvyn9WXL-26">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="QtYvp_LbL9cdmvyn9WXL-21" value="SDK声明三元组" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=25;image=img/lib/azure2/general/Templates.svg;" vertex="1" parent="1">
+          <mxGeometry x="929.8" y="1169" width="46" height="55.86" as="geometry" />
+        </mxCell>
+        <mxCell id="QtYvp_LbL9cdmvyn9WXL-29" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="QtYvp_LbL9cdmvyn9WXL-22" target="QtYvp_LbL9cdmvyn9WXL-21">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="952.8000000000002" y="1099.9999999999998" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="948" y="1130" />
+              <mxPoint x="948" y="1130" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="QtYvp_LbL9cdmvyn9WXL-22" value="支付宝隐私政策" style="sketch=0;aspect=fixed;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;fillColor=#00188D;shape=mxgraph.azure.file;fontSize=25;" vertex="1" parent="1">
+          <mxGeometry x="910" y="939.9999999999999" width="55.8" height="59.36" as="geometry" />
+        </mxCell>
+        <mxCell id="QtYvp_LbL9cdmvyn9WXL-26" value="&lt;span style=&quot;font-size: 25px;&quot;&gt;SDK-name : 支付宝SDK&lt;/span&gt;&lt;br style=&quot;font-size: 25px;&quot;&gt;&lt;span style=&quot;font-size: 25px;&quot;&gt;Data : 手机号码、电子邮箱&lt;/span&gt;&lt;br style=&quot;font-size: 25px;&quot;&gt;&lt;span style=&quot;font-size: 25px;&quot;&gt;Purpose :&amp;nbsp;注册支付宝账户或使用支付宝服务&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;spacingLeft=24;" vertex="1" parent="1">
+          <mxGeometry x="692.8" y="1340" width="520" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="QtYvp_LbL9cdmvyn9WXL-31" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;endArrow=classic;html=1;curved=0;rounded=0;endSize=8;startSize=8;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="QtYvp_LbL9cdmvyn9WXL-13" target="QtYvp_LbL9cdmvyn9WXL-20">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="590" y="1010" as="sourcePoint" />
+            <mxPoint x="640" y="960" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="580" y="890" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="QtYvp_LbL9cdmvyn9WXL-32" value="" style="edgeStyle=segmentEdgeStyle;endArrow=classic;html=1;curved=0;rounded=0;endSize=8;startSize=8;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="QtYvp_LbL9cdmvyn9WXL-22">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="650" y="890" as="sourcePoint" />
+            <mxPoint x="820" y="970" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="938" y="890" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="QtYvp_LbL9cdmvyn9WXL-36" value="" style="edgeStyle=segmentEdgeStyle;endArrow=classic;html=1;curved=0;rounded=0;endSize=8;startSize=8;" edge="1" parent="1" target="QtYvp_LbL9cdmvyn9WXL-18">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="490" y="1110" as="sourcePoint" />
+            <mxPoint x="628" y="1160" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="628" y="1110" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="QtYvp_LbL9cdmvyn9WXL-37" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;endArrow=classic;html=1;curved=0;rounded=0;endSize=8;startSize=8;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="QtYvp_LbL9cdmvyn9WXL-20" target="QtYvp_LbL9cdmvyn9WXL-16">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="558" y="1070" as="sourcePoint" />
+            <mxPoint x="340" y="1164" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="440" y="1110" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="QtYvp_LbL9cdmvyn9WXL-38" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;endArrow=classic;html=1;curved=0;rounded=0;endSize=8;startSize=8;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.47;entryY=0.002;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="QtYvp_LbL9cdmvyn9WXL-12">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="405" y="675" as="sourcePoint" />
+            <mxPoint x="159" y="780" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="267" y="719" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="QtYvp_LbL9cdmvyn9WXL-39" value="" style="edgeStyle=segmentEdgeStyle;endArrow=classic;html=1;curved=0;rounded=0;endSize=8;startSize=8;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="390" y="720" as="sourcePoint" />
+            <mxPoint x="692.7669230769231" y="770" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="692.69" y="720" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
